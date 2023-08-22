@@ -24,5 +24,3 @@ def play_single_game():
         winner = play_single_game()
     print("Player " + str(winner) + " wins this game!")
     return winner
-
-play_game(3)
