@@ -9,7 +9,6 @@ def play_game(best_of = 1):
             print("Player 2 wins this best of " + str(best_of) + " match!")
             return 2
 
-
 def prompt_for_input():
     return input("Rock, paper, or scissors?\n")
 
